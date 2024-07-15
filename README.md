@@ -1,5 +1,4 @@
-# ML algorithms
-Discuss different Machine Learning Algorithms and case studies. 
+# Machine Learning algorithms and Case studies
 
 - Optimal Threshold for Binary Classification
 - Decision Tree Visualization 
