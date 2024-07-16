@@ -1,7 +1,7 @@
 # Machine Learning Basics, Algorithms, and Case studies
 
-- Optimal Threshold for Binary Classification
-- Decision Tree Visualization 
-- Imbalanced Dataset Fraud Detection
-- Handling Missing Data
-- Feature Selection Techniques 
+1. Optimal Threshold for Binary Classification
+2. Decision Tree Visualization 
+3. Imbalanced Dataset Fraud Detection
+4. Handling Missing Data
+5. Feature Selection Techniques 
