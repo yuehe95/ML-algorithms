@@ -4,4 +4,5 @@
 2. Decision Tree Visualization 
 3. Imbalanced Dataset Fraud Detection
 4. Handling Missing Data
-5. Feature Selection Techniques 
+5. Feature Selection Techniques
+6. KNN
